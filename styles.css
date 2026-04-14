@@ -1,0 +1,40 @@
+/* Background */
+body {
+    background-color: #0e1117;
+    color: white;
+}
+
+/* Card style */
+.card {
+    background: #161b22;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 20px rgba(0,0,0,0.4);
+}
+
+/* Titles */
+.section-title {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Highlight box */
+.highlight {
+    background: #1f6feb;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Warning */
+.warning-box {
+    background: #3a1f1f;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background: #111827;
+}

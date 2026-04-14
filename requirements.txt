@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+groq
+python-dotenv
+beautifulsoup4
+requests
+reportlab
